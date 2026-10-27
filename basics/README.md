@@ -18,6 +18,3 @@
 16) deleting all files ending with ~ in the current working dir
 17) creating deep paths/nested directories
 
-# SHELL PERMISSIONS
-0) Adding user betty
-
