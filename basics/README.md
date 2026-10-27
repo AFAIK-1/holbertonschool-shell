@@ -6,4 +6,5 @@
 4) displays all contents including hidden
 5) displays all contents, including hidden, in long format, with digits replacing user and group ID
 6) makes a directory in the /tmp/ directory
+7) moves /betty to /tmp/my_first_directory
 
