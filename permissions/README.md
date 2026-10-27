@@ -11,4 +11,5 @@
 9) Changing permissions to all for user, read and execute for group owner, and write and execute for other users
 10) Mirrors the permissions set on olleh to hello
 11) Adding execute permissions to all on subdirectories, excluding files,  of the current working directory. 
+12) Creates my_dir with permissions 751 in working directory
 
