@@ -7,4 +7,5 @@
 5) Allow owner to execute 'hello'
 6) Adding execute permissions to user and group owner, and read permissions to other users
 7) Adding execute permissions to all
+8) Adding all permissions to other users, but no permissions with user and group owner
 
