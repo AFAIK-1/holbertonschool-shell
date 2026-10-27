@@ -1,4 +1,4 @@
-# 0-current_working_directory
+# MASTERING SHELL
 0) prints the absolute path name of the current working directory
 1) lists the contents of the current directory
 2) takes me to home
@@ -14,4 +14,5 @@
 12) prints the file type of a file in tmp
 13) making symbolic link to /bin/ls named __ls__
 14) copying updated or new html files from current working dir to parent dir
+15) moving files beginning with an uppercase letter to /tmp/u/
 
