@@ -9,4 +9,5 @@
 7) Adding execute permissions to all
 8) Changing permissions to all for other users, but no permissions with user and group owner
 9) Changing permissions to all for user, read and execute for group owner, and write and execute for other users
+10) Mirrors the permissions set on olleh to hello
 
