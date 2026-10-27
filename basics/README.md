@@ -16,4 +16,5 @@
 14) copying updated or new html files from current working dir to parent dir
 15) moving files beginning with an uppercase letter to /tmp/u/
 16) deleting all files ending with ~ in the current working dir
+17) creating deep paths/nested directories
 
