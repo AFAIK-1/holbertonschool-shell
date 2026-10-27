@@ -14,5 +14,6 @@
 12) Creates my_dir with permissions 751 in working directory
 13) Changes the group owner for hello to "school"
 14) Changes owner to 'vincent' and group owner to 'staff' for all files and directories in the working directory.
-15) Changing the owner and group owner to vincent:staff for only the symbolic link file _hello
+15) Changing the owner and group owner to vincent:staff for only the symbolic link file hello
+16) Changing the owner of hello to vincent if owned by guillaume
 
