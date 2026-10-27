@@ -3,4 +3,5 @@
 1) lists the contents of the current directory
 2) takes me to home
 3) displays the contents of the current directory in a long format
+4) displays even more its crazy
 
