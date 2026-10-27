@@ -1,4 +1,4 @@
-# MASTERING SHELL
+# SHELL BASICS
 0) prints the absolute path name of the current working directory
 1) lists the contents of the current directory
 2) takes me to home
@@ -17,4 +17,7 @@
 15) moving files beginning with an uppercase letter to /tmp/u/
 16) deleting all files ending with ~ in the current working dir
 17) creating deep paths/nested directories
+
+# SHELL PERMISSIONS
+0) Adding user betty
 
