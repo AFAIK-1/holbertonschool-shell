@@ -13,4 +13,5 @@
 11) lists all files, including hidden, in a long format grouped according to: current, parent, and boot directories
 12) prints the file type of a file in tmp
 13) making symbolic link to /bin/ls named __ls__
+14) copying updated or new html files from current working dir to parent dir
 
