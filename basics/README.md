@@ -11,4 +11,5 @@
 9) bye bye directory
 10) go back a prev dir
 11) lists all files, including hidden, in a long format grouped according to: current, parent, and boot directories
+12) prints the file type of a file in tmp
 
