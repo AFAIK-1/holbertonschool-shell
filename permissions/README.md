@@ -4,4 +4,5 @@
 2) Prints all groups the current user is a part of
 3) Changing ownership of file 'hello' to betty
 4) Creating empty file 'hello'
+5) Allow owner to execute 'hello'
 
