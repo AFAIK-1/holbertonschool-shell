@@ -9,4 +9,5 @@
 7) moves /betty to /tmp/my_first_directory
 8) bye bye betty
 9) bye bye directory
+10) go back a prev dir
 
