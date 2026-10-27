@@ -5,4 +5,5 @@
 3) displays the contents of the current directory in a long format
 4) displays all contents including hidden
 5) displays all contents, including hidden, in long format, with digits replacing user and group ID
+6) makes a directory in the /tmp/ directory
 
