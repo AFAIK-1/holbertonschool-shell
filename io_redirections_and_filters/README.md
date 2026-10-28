@@ -12,4 +12,5 @@
 10) Finds and deletes all .js files within the directory and its subfolders
 11) Finds and counts all, including hidden, directories in the current directory with exception to the current and parent dir
 12) Prints a list of the names of the 10 newest files in the current directory
+13) Prints the unique characters off a set list
 
