@@ -6,4 +6,5 @@
 4) Prints the last 10 lines of /etc/passwd file
 5) Prints the first 10 lines of /etc/passwd file
 6) Printing the 3rd line of file 'iacta'
+7) Printing such an odd file name that displays how concatenation functions within shell
 
