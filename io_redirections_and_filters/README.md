@@ -3,4 +3,5 @@
 1) Prints out a confused smiley
 2) Prints the content of /etc/passwd file
 3) Prints the contents from 2 files out of their paths
+4) Prints the last 10 lines of /etc/passwd file
 
