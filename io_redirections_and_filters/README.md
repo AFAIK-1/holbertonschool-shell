@@ -5,4 +5,5 @@
 3) Prints the contents from 2 files out of their paths
 4) Prints the last 10 lines of /etc/passwd file
 5) Prints the first 10 lines of /etc/passwd file
+6) Printing the 3rd line of file 'iacta'
 
