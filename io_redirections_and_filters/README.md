@@ -8,4 +8,5 @@
 6) Printing the 3rd line of file 'iacta'
 7) Printing such an odd file name that displays how concatenation functions within shell
 8) Concatenating the output of 'ls -la' to ls_cwd_content
+9) Duplicate the last line of file 'iacta'
 
