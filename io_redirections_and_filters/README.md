@@ -21,4 +21,5 @@
 19) Replaces characters from a string input: A->Z | c->e
 20) Deletes 'C' and 'c' from a string input
 21) Reverses a string input
+22) Prints a sorted list of users and their home dir from /etc/passwd file
 
