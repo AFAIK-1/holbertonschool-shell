@@ -12,3 +12,5 @@
 10) Prints the product of BREATH to the power of LOVE
 11) Prints the a number in base 2 to base 10
 12) Prints all possible combinations of 2 letters except 'oo'
+13) Prints a float of a given number
+
