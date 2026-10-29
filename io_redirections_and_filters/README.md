@@ -18,4 +18,5 @@
 16) Same as 14 but it prints 3 trailing lines after it
 17) Inverse of 14
 18) Prints lines starting with a letter
+19) Replaces characters from an input: A->Z | c->e
 
