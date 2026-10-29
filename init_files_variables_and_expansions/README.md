@@ -13,4 +13,5 @@
 11) Prints the a number in base 2 to base 10
 12) Prints all possible combinations of 2 letters except 'oo'
 13) Prints a float of a given number
+14) Prints a base 16 form of a base 10 given number
 
