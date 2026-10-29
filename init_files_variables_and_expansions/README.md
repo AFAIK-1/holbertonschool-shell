@@ -8,4 +8,5 @@
 6) Sets local variable 'BEST' with a value of 'School'
 7) Sets a global variable similar to #6
 8) Prints the sum of 128 and the value of TRUEKNOWLEDGE
+9) Prints the quotient of $POWER and $DIVIDE
 
