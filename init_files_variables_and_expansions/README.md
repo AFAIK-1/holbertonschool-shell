@@ -3,4 +3,5 @@
 1) Prints out hello "username"
 2) Prints $PATH along with ":/action"
 3) Counts the number of directories from variable PATH
+4) Lists environment variables
 
