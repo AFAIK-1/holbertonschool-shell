@@ -13,5 +13,6 @@
 11) Finds and counts all, including hidden, directories in the current directory with exception to the current and parent dir
 12) Prints a list of the names of the 10 newest files in the current directory
 13) Prints the unique characters off a set list
-14) Examines and prints lines containing the pattern, not the word, 'root'
+14) Examines and prints lines containing the pattern, not the word, 'root' from /etc/passwd
+15) Counts the number of lines containg the pattern, not the word, 'bin' from /etc/passwd
 
