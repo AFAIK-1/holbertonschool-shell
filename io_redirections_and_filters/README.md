@@ -15,4 +15,5 @@
 13) Prints the unique characters off a set list
 14) Examines and prints lines containing the pattern, not the word, 'root' from /etc/passwd
 15) Counts the number of lines containg the pattern, not the word, 'bin' from /etc/passwd
+16) Same as 14 but it prints 3 trailing lines after it
 
