@@ -5,4 +5,5 @@
 3) Counts the number of directories from variable PATH
 4) Lists environment variables
 5) Lists all variables and functions
+6) Sets local variable 'BEST' with a value of 'School'
 
