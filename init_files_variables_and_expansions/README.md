@@ -10,4 +10,5 @@
 8) Prints the sum of 128 and the value of TRUEKNOWLEDGE
 9) Prints the quotient of POWER and DIVIDE
 10) Prints the product of BREATH to the power of LOVE
+11) Prints the a number in base 2 to base 10
 
