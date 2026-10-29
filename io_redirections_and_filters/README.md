@@ -20,4 +20,5 @@
 18) Prints lines starting with a letter
 19) Replaces characters from a string input: A->Z | c->e
 20) Deletes 'C' and 'c' from a string input
+21) Reverses a string input
 
