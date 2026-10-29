@@ -17,4 +17,5 @@
 15) Counts the number of lines containg the pattern, not the word, 'bin' from /etc/passwd
 16) Same as 14 but it prints 3 trailing lines after it
 17) Inverse of 14
+18) Prints lines starting with a letter
 
